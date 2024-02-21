@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\User\Documents\c++ projects\lab4\lab4\lab4.cpp(77,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\User\Documents\c++ projects\lab4\lab4\lab4.cpp(77,19): warning C4101: c: неиспользованная локальная переменная
+C:\Users\User\Documents\c++ projects\lab4\lab4\lab4.cpp(77,22): warning C4101: d: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\User\Documents\c++ projects\lab4\x64\Debug\lab4.exe
