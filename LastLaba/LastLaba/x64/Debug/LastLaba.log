@@ -1,0 +1,3 @@
+﻿  LastLaba.cpp
+C:\Users\User\Documents\c++ projects\LastLaba\LastLaba\LastLaba.cpp(110,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LastLaba.vcxproj -> C:\Users\User\Documents\c++ projects\LastLaba\x64\Debug\LastLaba.exe
